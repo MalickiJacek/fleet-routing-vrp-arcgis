@@ -1,0 +1,8 @@
+// Transparency of order points on the "virtual map" (thesis, Section 3.3).
+// Visits within the next working week stay fully visible, later ones fade out,
+// so the planner sees at a glance which existing visits a new order can join.
+var transparency = 0;
+if ($feature.DaysCount > 5) {
+    transparency = 80;
+}
+return transparency;

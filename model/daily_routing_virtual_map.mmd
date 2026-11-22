@@ -1,0 +1,71 @@
+flowchart TB
+  n1[/"Table of Routes (Available vehicles)"/]:::param
+  n2[/"Table of breaks"/]:::param
+  n3[/"Regular Orders Layer"/]:::param
+  n4[/"One Time Orders Layer"/]:::param
+  n11(["Network Data Source"]):::var
+  n12(["Vehicle Routing Problem"]):::var
+  n14(["Network Analyst Layer"]):::var
+  n15(["Solve Succeeded"]):::var
+  n19(["Vehicle Routing Problem (2)"]):::var
+  n21(["Vehicle Routing Problem (3)"]):::var
+  n23(["Vehicle Routing Problem (4)"]):::var
+  n25(["RegularOrders_Select"]):::var
+  n27(["OneTimeOrders_Select"]):::var
+  n29[/"Depots (company + night stops)"/]:::param
+  n31(["Updated Input Network Analysis Layer"]):::var
+  n33(["Updated Input Network Analysis Layer (2)"]):::var
+  n39(["Orders"]):::var
+  n41(["Breaks"]):::var
+  n43(["Routes"]):::var
+  n47(["ROUTES_date.xlsx"]):::var
+  n10["Make Vehicle Routing Problem Analysis Layer"]:::proc
+  n13["Solve"]:::proc
+  n18["Add Locations"]:::proc
+  n20["Add Locations (2)"]:::proc
+  n22["Add Locations (3)"]:::proc
+  n24["Select"]:::proc
+  n26["Select (2)"]:::proc
+  n30["Add Locations (4)"]:::proc
+  n32["Add Locations (5)"]:::proc
+  n38["Select Data"]:::proc
+  n40["Select Data (2)"]:::proc
+  n42["Select Data (3)"]:::proc
+  n46["Table To Excel"]:::proc
+  n11 --> n10
+  n10 --> n12
+  n33 --> n13
+  n13 --> n14
+  n13 --> n15
+  n12 --> n18
+  n1 --> n18
+  n18 --> n19
+  n19 --> n20
+  n2 --> n20
+  n20 --> n21
+  n21 --> n22
+  n29 --> n22
+  n22 --> n23
+  n3 --> n24
+  n24 --> n25
+  n4 --> n26
+  n26 --> n27
+  n23 --> n30
+  n25 --> n30
+  n30 --> n31
+  n31 --> n32
+  n27 --> n32
+  n32 --> n33
+  n14 --> n38
+  n38 --> n39
+  n14 --> n40
+  n40 --> n41
+  n14 --> n42
+  n42 --> n43
+  n41 --> n46
+  n43 --> n46
+  n39 --> n46
+  n46 --> n47
+  classDef proc fill:#f3e08a,stroke:#b59b00,color:#222
+  classDef var fill:#9bd18b,stroke:#4c8c3c,color:#111
+  classDef param fill:#7fb6e0,stroke:#2f6f9f,color:#111

@@ -1,0 +1,63 @@
+flowchart TB
+  n5(["Network Data Source"]):::var
+  n7(["Vehicle Routing Problem"]):::var
+  n8(["Routes.csv"]):::var
+  n10(["Vehicle Routing Problem (2)"]):::var
+  n11(["Breaks.csv"]):::var
+  n13(["Vehicle Routing Problem (3)"]):::var
+  n14(["Depots"]):::var
+  n16(["Vehicle Routing Problem (4)"]):::var
+  n21(["Updated Input Network Analysis Layer"]):::var
+  n28(["Solve Succeeded"]):::var
+  n29(["Network Analyst Layer"]):::var
+  n31(["Breaks"]):::var
+  n33(["Routes"]):::var
+  n35(["Orders"]):::var
+  n37(["ROUTES_date.xlsx"]):::var
+  n39(["Orders_GeocodeAddresses"]):::var
+  n40(["Orders.csv"]):::var
+  n41(["Esri World Geocoder"]):::var
+  n6["Make Vehicle Routing Problem Analysis Layer"]:::proc
+  n9["Add Locations"]:::proc
+  n12["Add Locations (2)"]:::proc
+  n15["Add Locations (3)"]:::proc
+  n20["Add Locations (4)"]:::proc
+  n27["Solve"]:::proc
+  n30["Select Data (2)"]:::proc
+  n32["Select Data (3)"]:::proc
+  n34["Select Data"]:::proc
+  n36["Table To Excel"]:::proc
+  n38["Geocode Addresses"]:::proc
+  n5 --> n6
+  n6 --> n7
+  n7 --> n9
+  n8 --> n9
+  n9 --> n10
+  n10 --> n12
+  n11 --> n12
+  n12 --> n13
+  n13 --> n15
+  n14 --> n15
+  n15 --> n16
+  n16 --> n20
+  n39 --> n20
+  n20 --> n21
+  n21 --> n27
+  n27 --> n29
+  n27 --> n28
+  n29 --> n30
+  n30 --> n31
+  n29 --> n32
+  n32 --> n33
+  n29 --> n34
+  n34 --> n35
+  n31 --> n36
+  n33 --> n36
+  n35 --> n36
+  n36 --> n37
+  n40 --> n38
+  n41 --> n38
+  n38 --> n39
+  classDef proc fill:#f3e08a,stroke:#b59b00,color:#222
+  classDef var fill:#9bd18b,stroke:#4c8c3c,color:#111
+  classDef param fill:#7fb6e0,stroke:#2f6f9f,color:#111

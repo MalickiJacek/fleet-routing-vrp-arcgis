@@ -1,0 +1,6 @@
+Name,Driver,StartDepot,EndDepot,StartServiceMin,EndServiceMin,EarliestStart,LatestStart,CapBags,CapBins240,CapWeightKg,CostPerMin,CostPerMile,OvertimeStartMin,MaxOrders,MaxTotalMin,MaxTravelMin,MaxDistanceMi,ArriveDepartDelayMin
+Van 1,Driver A,Depot,Depot,30,30,05:00,07:00,80,4,3000,0.2,0.8,540,30,720,480,300,4.7
+Van 2,Driver B,Depot,Depot,30,30,05:00,07:00,100,18,3500,0.2,1.0,540,30,720,480,300,4.7
+Van 3,Driver C,Depot,Depot,30,30,05:00,07:00,100,15,3500,0.2,1.0,540,30,720,480,300,4.7
+Van 4,Driver D,Depot,Depot,30,30,05:00,07:00,100,15,3500,0.2,1.25,540,30,720,480,300,4.7
+Lorry 5,Driver E,Depot,Depot,30,30,05:00,07:00,200,40,7500,0.2,1.5,540,30,720,480,300,4.7

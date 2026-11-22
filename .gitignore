@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# analysis outputs
+output/
+outputs/
+
+# ArcGIS outputs and locks
+*.gdb/
+*.xlsx
+*.lock
+*.aprx.bak
+.backups/
+ImportLog/
+Index/
+
+# private notes - never published
+_NOTATKI*.md
+.claude/
+
+# OS / editors
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# never commit real data - only data/sample (synthetic) is tracked
+data/*
+!data/sample/
+!data/thesis/

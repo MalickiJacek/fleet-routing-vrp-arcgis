@@ -1,0 +1,301 @@
+OrderID,Name,Town,Lon,Lat,ServiceTime,WindowStart,WindowEnd,ServiceDay,Frequency,LastDate,Bags,Bins240,WeightKg
+R0001,Customer 0001,East Kilbride,-4.15227,55.76251,17,08:00,17:00,Tuesday,weekly,2023-07-04,6,2,54
+R0002,Customer 0002,Edinburgh,-3.16584,55.95261,13,09:00,12:00,Friday,4 weekly,2023-06-30,4,0,36
+R0003,Customer 0003,Edinburgh,-3.20244,55.98972,9,09:00,17:00,Tuesday,6 weekly,2023-06-13,2,0,18
+R0004,Customer 0004,Airdrie,-3.98799,55.87755,15,08:00,17:00,Monday,2 weekly,2023-06-26,5,0,45
+R0005,Customer 0005,Edinburgh,-3.15635,55.94672,15,08:00,17:00,Friday,2 weekly,2023-06-30,5,0,45
+R0006,Customer 0006,East Kilbride,-4.16532,55.70254,7,07:00,16:00,Tuesday,weekly,2023-07-04,1,0,9
+R0007,Customer 0007,Edinburgh,-3.18306,55.96526,13,09:00,17:00,Monday,4 weekly,2023-06-26,4,0,36
+R0008,Customer 0008,Edinburgh,-3.19997,55.99521,27,08:00,17:00,Friday,weekly,2023-06-30,11,0,99
+R0009,Customer 0009,Falkirk,-3.76798,55.98095,7,09:00,12:00,Monday,weekly,2023-07-03,1,0,9
+R0010,Customer 0010,Dunfermline,-3.47212,56.06132,21,09:00,12:00,Tuesday,weekly,2023-07-04,8,2,72
+R0011,Customer 0011,Edinburgh,-3.16676,56.01804,21,08:00,17:00,Friday,2 weekly,2023-06-30,8,0,72
+R0012,Customer 0012,East Kilbride,-4.17042,55.73978,15,09:00,12:00,Monday,2 weekly,2023-06-26,5,1,45
+R0013,Customer 0013,Glasgow,-4.329,55.84431,21,07:00,16:00,Monday,4 weekly,2023-06-19,8,0,72
+R0014,Customer 0014,Glasgow,-4.24846,55.86135,13,08:00,17:00,Wednesday,4 weekly,2023-06-28,4,0,36
+R0015,Customer 0015,Stirling,-3.96328,56.11936,13,08:00,17:00,Wednesday,8 weekly,2023-06-21,4,2,36
+R0016,Customer 0016,Edinburgh,-3.11008,55.95562,7,08:00,17:00,Wednesday,weekly,2023-07-05,1,0,9
+R0017,Customer 0017,Livingston,-3.48103,55.84943,7,09:00,12:00,Friday,8 weekly,2023-06-23,1,1,9
+R0018,Customer 0018,Glasgow,-4.29709,55.85527,19,09:00,12:00,Tuesday,4 weekly,2023-06-27,7,0,63
+R0019,Customer 0019,Edinburgh,-3.20767,55.94888,7,09:00,17:00,Tuesday,weekly,2023-07-04,1,2,9
+R0020,Customer 0020,Glasgow,-4.20541,55.87219,27,08:00,17:00,Tuesday,weekly,2023-07-04,11,1,99
+R0021,Customer 0021,Glasgow,-4.26185,55.84787,15,09:00,17:00,Tuesday,6 weekly,2023-06-06,5,0,45
+R0022,Customer 0022,Falkirk,-3.77422,56.00841,11,08:00,17:00,Thursday,2 weekly,2023-06-29,3,0,27
+R0023,Customer 0023,Glasgow,-4.25858,55.82442,7,09:00,12:00,Monday,weekly,2023-07-03,1,0,9
+R0024,Customer 0024,Edinburgh,-3.19473,55.96492,7,08:00,17:00,Monday,2 weekly,2023-07-03,1,0,9
+R0025,Customer 0025,Dunfermline,-3.44773,56.06018,27,08:00,17:00,Thursday,2 weekly,2023-07-06,11,0,99
+R0026,Customer 0026,Edinburgh,-3.16264,55.94855,19,09:00,12:00,Thursday,2 weekly,2023-06-29,7,0,63
+R0027,Customer 0027,Glasgow,-4.24755,55.8668,7,09:00,12:00,Friday,weekly,2023-06-30,1,1,9
+R0028,Customer 0028,Dunfermline,-3.47175,56.06867,7,08:00,17:00,Friday,weekly,2023-06-30,1,0,9
+R0029,Customer 0029,Edinburgh,-3.14757,55.94068,15,09:00,12:00,Friday,4 weekly,2023-06-30,5,2,45
+R0030,Customer 0030,Paisley,-4.43102,55.86421,11,07:00,16:00,Wednesday,weekly,2023-07-05,3,0,27
+R0031,Customer 0031,Edinburgh,-3.18984,55.94224,7,09:00,17:00,Thursday,4 weekly,2023-07-06,1,1,9
+R0032,Customer 0032,Glasgow,-4.18406,55.8432,7,07:00,16:00,Tuesday,2 weekly,2023-06-27,1,2,9
+R0033,Customer 0033,Kilmarnock,-4.48492,55.58702,37,09:00,17:00,Friday,2 weekly,2023-06-30,16,0,144
+R0034,Customer 0034,Glasgow,-4.21525,55.87582,19,09:00,17:00,Wednesday,2 weekly,2023-07-05,7,0,63
+R0035,Customer 0035,Edinburgh,-3.19054,55.9937,25,08:00,17:00,Monday,weekly,2023-07-03,10,0,90
+R0036,Customer 0036,Edinburgh,-3.12344,55.99092,13,09:00,12:00,Tuesday,6 weekly,2023-06-13,4,1,36
+R0037,Customer 0037,Glasgow,-4.18544,55.87887,25,09:00,17:00,Tuesday,4 weekly,2023-07-04,10,0,90
+R0038,Customer 0038,Glasgow,-4.27682,55.89999,17,08:00,17:00,Monday,2 weekly,2023-07-03,6,0,54
+R0039,Customer 0039,Falkirk,-3.75332,55.98641,35,09:00,17:00,Friday,6 weekly,2023-06-30,15,0,135
+R0040,Customer 0040,Kilmarnock,-4.47307,55.57167,23,09:00,12:00,Monday,weekly,2023-07-03,9,0,81
+R0041,Customer 0041,Glasgow,-4.2461,55.8507,7,09:00,12:00,Monday,2 weekly,2023-07-03,1,0,9
+R0042,Customer 0042,Edinburgh,-3.18293,55.93621,11,07:00,16:00,Monday,4 weekly,2023-06-26,3,0,27
+R0043,Customer 0043,Airdrie,-3.98912,55.89817,37,08:00,17:00,Thursday,4 weekly,2023-06-22,16,0,144
+R0044,Customer 0044,Glasgow,-4.22327,55.85634,9,07:00,16:00,Monday,4 weekly,2023-06-12,2,0,18
+R0045,Customer 0045,Paisley,-4.45443,55.84859,7,09:00,12:00,Friday,weekly,2023-06-30,1,0,9
+R0046,Customer 0046,Edinburgh,-3.17146,55.92142,7,07:00,16:00,Tuesday,2 weekly,2023-06-27,1,2,9
+R0047,Customer 0047,Edinburgh,-3.15775,55.92396,17,07:00,16:00,Wednesday,4 weekly,2023-06-21,6,0,54
+R0048,Customer 0048,Hamilton,-4.06152,55.77562,15,07:00,16:00,Thursday,4 weekly,2023-06-29,5,0,45
+R0049,Customer 0049,Edinburgh,-3.16122,55.95004,11,09:00,12:00,Thursday,8 weekly,2023-06-01,3,0,27
+R0050,Customer 0050,Edinburgh,-3.16592,55.90119,9,07:00,16:00,Tuesday,4 weekly,2023-07-04,2,0,18
+R0051,Customer 0051,Falkirk,-3.77963,55.97011,7,08:00,17:00,Tuesday,8 weekly,2023-06-13,1,0,9
+R0052,Customer 0052,Kilmarnock,-4.54583,55.58798,19,09:00,12:00,Thursday,2 weekly,2023-07-06,7,0,63
+R0053,Customer 0053,Edinburgh,-3.15796,55.97441,7,09:00,12:00,Monday,8 weekly,2023-05-22,1,0,9
+R0054,Customer 0054,Paisley,-4.40454,55.84496,17,07:00,16:00,Tuesday,8 weekly,2023-05-16,6,0,54
+R0055,Customer 0055,East Kilbride,-4.18796,55.73673,21,09:00,12:00,Friday,2 weekly,2023-06-30,8,0,72
+R0056,Customer 0056,Glasgow,-4.24914,55.88849,7,08:00,17:00,Friday,2 weekly,2023-06-30,1,0,9
+R0057,Customer 0057,Glasgow,-4.28801,55.89628,7,09:00,17:00,Monday,weekly,2023-07-03,1,0,9
+R0058,Customer 0058,Glasgow,-4.2866,55.87372,25,09:00,12:00,Thursday,weekly,2023-07-06,10,2,90
+R0059,Customer 0059,Airdrie,-3.90838,55.87505,7,07:00,16:00,Friday,2 weekly,2023-06-30,1,0,9
+R0060,Customer 0060,Livingston,-3.46754,55.86057,13,07:00,16:00,Thursday,4 weekly,2023-06-29,4,0,36
+R0061,Customer 0061,Edinburgh,-3.22986,55.96912,27,09:00,17:00,Thursday,6 weekly,2023-06-29,11,2,99
+R0062,Customer 0062,Edinburgh,-3.15093,55.93522,7,09:00,12:00,Monday,weekly,2023-07-03,1,0,9
+R0063,Customer 0063,Glasgow,-4.2675,55.8695,7,09:00,12:00,Wednesday,2 weekly,2023-06-28,1,0,9
+R0064,Customer 0064,Stirling,-3.99719,56.12617,17,08:00,17:00,Monday,2 weekly,2023-07-03,6,0,54
+R0065,Customer 0065,Airdrie,-3.97778,55.87385,11,08:00,17:00,Tuesday,weekly,2023-07-04,3,2,27
+R0066,Customer 0066,Airdrie,-4.00628,55.87335,23,09:00,17:00,Wednesday,weekly,2023-07-05,9,0,81
+R0067,Customer 0067,Glasgow,-4.22013,55.86278,7,09:00,17:00,Thursday,2 weekly,2023-07-06,1,0,9
+R0068,Customer 0068,Hamilton,-4.05692,55.80879,9,09:00,12:00,Monday,8 weekly,2023-07-03,2,0,18
+R0069,Customer 0069,Glasgow,-4.25335,55.85745,11,07:00,16:00,Thursday,2 weekly,2023-07-06,3,0,27
+R0070,Customer 0070,Hamilton,-4.09233,55.79283,11,07:00,16:00,Wednesday,4 weekly,2023-06-14,3,0,27
+R0071,Customer 0071,Stirling,-3.93276,56.11256,15,09:00,12:00,Thursday,weekly,2023-07-06,5,0,45
+R0072,Customer 0072,Glasgow,-4.23686,55.84979,9,07:00,16:00,Tuesday,2 weekly,2023-06-27,2,1,18
+R0073,Customer 0073,Glasgow,-4.23597,55.85729,19,09:00,12:00,Thursday,2 weekly,2023-07-06,7,0,63
+R0074,Customer 0074,Falkirk,-3.75934,56.00781,11,07:00,16:00,Tuesday,2 weekly,2023-06-27,3,0,27
+R0075,Customer 0075,Kilmarnock,-4.53097,55.6042,7,08:00,17:00,Thursday,2 weekly,2023-06-29,1,0,9
+R0076,Customer 0076,Edinburgh,-3.19384,55.90095,21,07:00,16:00,Tuesday,weekly,2023-07-04,8,2,72
+R0077,Customer 0077,Kilmarnock,-4.52821,55.60748,7,09:00,17:00,Monday,weekly,2023-07-03,1,0,9
+R0078,Customer 0078,Glasgow,-4.27739,55.85659,19,09:00,17:00,Monday,4 weekly,2023-06-19,7,0,63
+R0079,Customer 0079,Glasgow,-4.22146,55.86126,7,08:00,17:00,Thursday,2 weekly,2023-06-29,1,0,9
+R0080,Customer 0080,Airdrie,-4.0444,55.87518,15,08:00,17:00,Thursday,2 weekly,2023-07-06,5,0,45
+R0081,Customer 0081,Glasgow,-4.2775,55.85345,15,09:00,17:00,Tuesday,weekly,2023-07-04,5,1,45
+R0082,Customer 0082,Edinburgh,-3.16532,55.94086,15,08:00,17:00,Friday,2 weekly,2023-06-30,5,2,45
+R0083,Customer 0083,Airdrie,-3.9318,55.88981,7,09:00,17:00,Tuesday,2 weekly,2023-07-04,1,1,9
+R0084,Customer 0084,Glasgow,-4.2117,55.86037,7,07:00,16:00,Friday,2 weekly,2023-06-30,1,0,9
+R0085,Customer 0085,Hamilton,-4.09116,55.78869,11,09:00,17:00,Wednesday,8 weekly,2023-06-14,3,0,27
+R0086,Customer 0086,Dunfermline,-3.45376,56.06318,15,07:00,16:00,Tuesday,8 weekly,2023-06-06,5,0,45
+R0087,Customer 0087,Glasgow,-4.2704,55.83125,11,08:00,17:00,Wednesday,4 weekly,2023-06-14,3,0,27
+R0088,Customer 0088,Livingston,-3.52637,55.89722,60,07:00,16:00,Tuesday,4 weekly,2023-07-04,46,2,414
+R0089,Customer 0089,Glasgow,-4.24845,55.83746,60,09:00,12:00,Thursday,2 weekly,2023-07-06,34,0,306
+R0090,Customer 0090,Airdrie,-4.01522,55.87384,27,07:00,16:00,Wednesday,4 weekly,2023-07-05,11,0,99
+R0091,Customer 0091,Hamilton,-4.06006,55.82682,7,07:00,16:00,Friday,weekly,2023-06-30,1,0,9
+R0092,Customer 0092,Glasgow,-4.24011,55.82038,11,09:00,17:00,Monday,4 weekly,2023-06-12,3,1,27
+R0093,Customer 0093,Edinburgh,-3.18801,55.922,13,07:00,16:00,Monday,weekly,2023-07-03,4,0,36
+R0094,Customer 0094,Dunfermline,-3.46843,56.07046,19,07:00,16:00,Friday,8 weekly,2023-06-16,7,1,63
+R0095,Customer 0095,Glasgow,-4.27091,55.8678,17,09:00,17:00,Monday,2 weekly,2023-07-03,6,0,54
+R0096,Customer 0096,Airdrie,-3.99423,55.90019,7,09:00,17:00,Thursday,2 weekly,2023-06-29,1,0,9
+R0097,Customer 0097,Glasgow,-4.29703,55.84063,21,09:00,12:00,Tuesday,weekly,2023-07-04,8,0,72
+R0098,Customer 0098,Airdrie,-4.0448,55.8682,25,09:00,12:00,Wednesday,6 weekly,2023-06-21,10,0,90
+R0099,Customer 0099,Edinburgh,-3.22131,55.95177,37,09:00,17:00,Friday,2 weekly,2023-06-30,16,0,144
+R0100,Customer 0100,Paisley,-4.41376,55.88439,19,09:00,12:00,Monday,2 weekly,2023-06-26,7,0,63
+R0101,Customer 0101,Kilmarnock,-4.48661,55.58196,7,07:00,16:00,Tuesday,2 weekly,2023-07-04,1,0,9
+R0102,Customer 0102,Stirling,-3.97979,56.12895,11,09:00,17:00,Thursday,weekly,2023-07-06,3,0,27
+R0103,Customer 0103,Edinburgh,-3.15877,55.9465,27,09:00,12:00,Thursday,4 weekly,2023-07-06,11,0,99
+R0104,Customer 0104,East Kilbride,-4.14922,55.74496,7,07:00,16:00,Friday,weekly,2023-06-30,1,0,9
+R0105,Customer 0105,Livingston,-3.53458,55.90367,19,08:00,17:00,Monday,2 weekly,2023-07-03,7,0,63
+R0106,Customer 0106,Edinburgh,-3.15905,55.95651,13,09:00,17:00,Thursday,weekly,2023-07-06,4,0,36
+R0107,Customer 0107,Glasgow,-4.27655,55.84753,7,07:00,16:00,Tuesday,2 weekly,2023-07-04,1,0,9
+R0108,Customer 0108,Glasgow,-4.18686,55.86213,7,07:00,16:00,Wednesday,4 weekly,2023-06-28,1,2,9
+R0109,Customer 0109,Glasgow,-4.19793,55.85276,60,09:00,12:00,Thursday,2 weekly,2023-07-06,44,0,396
+R0110,Customer 0110,Glasgow,-4.29118,55.84858,7,08:00,17:00,Wednesday,weekly,2023-07-05,1,2,9
+R0111,Customer 0111,Livingston,-3.48241,55.86252,7,09:00,17:00,Tuesday,4 weekly,2023-06-20,1,2,9
+R0112,Customer 0112,Glasgow,-4.24791,55.82586,33,08:00,17:00,Tuesday,4 weekly,2023-07-04,14,0,126
+R0113,Customer 0113,Falkirk,-3.74738,56.00397,9,09:00,12:00,Tuesday,weekly,2023-07-04,2,0,18
+R0114,Customer 0114,Glasgow,-4.23372,55.82017,25,07:00,16:00,Wednesday,4 weekly,2023-06-21,10,0,90
+R0115,Customer 0115,Airdrie,-3.9998,55.90882,7,09:00,17:00,Monday,2 weekly,2023-07-03,1,0,9
+R0116,Customer 0116,Airdrie,-3.96877,55.85203,13,09:00,12:00,Thursday,weekly,2023-07-06,4,0,36
+R0117,Customer 0117,Hamilton,-4.06175,55.75658,11,07:00,16:00,Wednesday,weekly,2023-07-05,3,2,27
+R0118,Customer 0118,Glasgow,-4.18985,55.87442,7,08:00,17:00,Wednesday,4 weekly,2023-06-14,1,0,9
+R0119,Customer 0119,Edinburgh,-3.20581,55.95042,11,09:00,12:00,Friday,weekly,2023-06-30,3,2,27
+R0120,Customer 0120,Livingston,-3.49954,55.91709,37,07:00,16:00,Monday,2 weekly,2023-06-26,16,0,144
+R0121,Customer 0121,Hamilton,-4.03225,55.80124,51,07:00,16:00,Tuesday,2 weekly,2023-07-04,23,1,207
+R0122,Customer 0122,Dunfermline,-3.46759,56.06442,39,09:00,12:00,Wednesday,weekly,2023-07-05,17,0,153
+R0123,Customer 0123,East Kilbride,-4.20969,55.73904,7,09:00,17:00,Monday,weekly,2023-07-03,1,2,9
+R0124,Customer 0124,Glasgow,-4.22861,55.83771,9,09:00,17:00,Friday,weekly,2023-06-30,2,2,18
+R0125,Customer 0125,Glasgow,-4.23768,55.85131,23,08:00,17:00,Tuesday,4 weekly,2023-06-20,9,0,81
+R0126,Customer 0126,Glasgow,-4.28879,55.88741,7,08:00,17:00,Friday,2 weekly,2023-06-30,1,0,9
+R0127,Customer 0127,Livingston,-3.57714,55.8946,13,08:00,17:00,Thursday,2 weekly,2023-06-29,4,0,36
+R0128,Customer 0128,Edinburgh,-3.18019,55.948,17,08:00,17:00,Friday,2 weekly,2023-06-30,6,0,54
+R0129,Customer 0129,Kilmarnock,-4.47882,55.59274,7,08:00,17:00,Monday,2 weekly,2023-06-26,1,0,9
+R0130,Customer 0130,Paisley,-4.39429,55.85643,9,07:00,16:00,Friday,4 weekly,2023-06-23,2,0,18
+R0131,Customer 0131,Edinburgh,-3.24625,55.96508,11,09:00,17:00,Monday,4 weekly,2023-06-26,3,0,27
+R0132,Customer 0132,Edinburgh,-3.22476,55.95597,9,07:00,16:00,Monday,2 weekly,2023-06-26,2,0,18
+R0133,Customer 0133,Airdrie,-3.99534,55.84908,11,07:00,16:00,Monday,weekly,2023-07-03,3,0,27
+R0134,Customer 0134,Paisley,-4.45848,55.83672,11,09:00,12:00,Wednesday,4 weekly,2023-07-05,3,0,27
+R0135,Customer 0135,Airdrie,-4.00631,55.85902,7,09:00,12:00,Friday,4 weekly,2023-06-30,1,0,9
+R0136,Customer 0136,Stirling,-3.96625,56.14062,15,09:00,12:00,Monday,8 weekly,2023-06-05,5,1,45
+R0137,Customer 0137,Kilmarnock,-4.47988,55.58493,7,07:00,16:00,Friday,weekly,2023-06-30,1,0,9
+R0138,Customer 0138,Dunfermline,-3.47313,56.08019,7,08:00,17:00,Tuesday,4 weekly,2023-06-13,1,0,9
+R0139,Customer 0139,Livingston,-3.51206,55.92037,9,07:00,16:00,Wednesday,weekly,2023-07-05,2,2,18
+R0140,Customer 0140,Paisley,-4.40487,55.84222,7,09:00,12:00,Friday,weekly,2023-06-30,1,0,9
+R0141,Customer 0141,Paisley,-4.44093,55.85716,11,07:00,16:00,Friday,weekly,2023-06-30,3,2,27
+R0142,Customer 0142,Edinburgh,-3.19531,55.94471,7,07:00,16:00,Thursday,4 weekly,2023-07-06,1,0,9
+R0143,Customer 0143,Livingston,-3.51743,55.88353,21,09:00,17:00,Monday,weekly,2023-07-03,8,0,72
+R0144,Customer 0144,Edinburgh,-3.20183,55.92743,27,08:00,17:00,Wednesday,weekly,2023-07-05,11,0,99
+R0145,Customer 0145,Glasgow,-4.1887,55.84108,19,09:00,12:00,Friday,2 weekly,2023-06-30,7,0,63
+R0146,Customer 0146,Glasgow,-4.21925,55.86232,7,08:00,17:00,Friday,2 weekly,2023-06-30,1,0,9
+R0147,Customer 0147,Edinburgh,-3.20148,55.95474,7,09:00,17:00,Wednesday,6 weekly,2023-06-21,1,0,9
+R0148,Customer 0148,Edinburgh,-3.15847,55.96569,7,09:00,17:00,Wednesday,2 weekly,2023-07-05,1,0,9
+R0149,Customer 0149,Glasgow,-4.29732,55.83972,11,09:00,12:00,Monday,weekly,2023-07-03,3,2,27
+R0150,Customer 0150,East Kilbride,-4.14918,55.75851,7,09:00,12:00,Wednesday,weekly,2023-07-05,1,0,9
+R0151,Customer 0151,Falkirk,-3.80737,55.98988,11,08:00,17:00,Monday,2 weekly,2023-06-26,3,0,27
+R0152,Customer 0152,Stirling,-3.87803,56.13853,11,08:00,17:00,Monday,4 weekly,2023-06-12,3,0,27
+R0153,Customer 0153,Dunfermline,-3.48035,56.06438,41,09:00,12:00,Friday,2 weekly,2023-06-30,18,0,162
+R0154,Customer 0154,Falkirk,-3.72809,55.95151,7,09:00,12:00,Monday,4 weekly,2023-06-26,1,0,9
+R0155,Customer 0155,Edinburgh,-3.21568,55.93789,21,08:00,17:00,Wednesday,2 weekly,2023-06-28,8,0,72
+R0156,Customer 0156,Glasgow,-4.20631,55.87686,9,09:00,17:00,Wednesday,2 weekly,2023-07-05,2,0,18
+R0157,Customer 0157,Edinburgh,-3.2187,55.92552,9,09:00,12:00,Tuesday,4 weekly,2023-07-04,2,0,18
+R0158,Customer 0158,Falkirk,-3.81165,55.96705,13,08:00,17:00,Friday,weekly,2023-06-30,4,0,36
+R0159,Customer 0159,Edinburgh,-3.15949,55.94448,60,09:00,17:00,Thursday,weekly,2023-07-06,63,0,567
+R0160,Customer 0160,Glasgow,-4.24012,55.83687,7,07:00,16:00,Friday,6 weekly,2023-06-09,1,2,9
+R0161,Customer 0161,Glasgow,-4.26488,55.86832,19,08:00,17:00,Friday,8 weekly,2023-06-23,7,0,63
+R0162,Customer 0162,Edinburgh,-3.20757,55.8981,7,09:00,17:00,Friday,2 weekly,2023-06-30,1,0,9
+R0163,Customer 0163,Airdrie,-3.96376,55.82771,11,07:00,16:00,Tuesday,2 weekly,2023-06-27,3,0,27
+R0164,Customer 0164,Edinburgh,-3.20815,55.95582,29,08:00,17:00,Tuesday,8 weekly,2023-06-20,12,0,108
+R0165,Customer 0165,Stirling,-3.95534,56.11687,7,09:00,17:00,Friday,weekly,2023-06-30,1,0,9
+R0166,Customer 0166,Edinburgh,-3.25577,55.94684,29,08:00,17:00,Monday,weekly,2023-07-03,12,0,108
+R0167,Customer 0167,Glasgow,-4.27567,55.85982,7,08:00,17:00,Monday,2 weekly,2023-07-03,1,0,9
+R0168,Customer 0168,Falkirk,-3.76132,56.01251,21,09:00,12:00,Thursday,6 weekly,2023-06-29,8,0,72
+R0169,Customer 0169,East Kilbride,-4.17431,55.75782,7,07:00,16:00,Tuesday,weekly,2023-07-04,1,0,9
+R0170,Customer 0170,Edinburgh,-3.15511,55.95617,7,09:00,12:00,Friday,2 weekly,2023-06-30,1,2,9
+R0171,Customer 0171,Edinburgh,-3.22093,55.93071,7,07:00,16:00,Tuesday,2 weekly,2023-06-27,1,0,9
+R0172,Customer 0172,Paisley,-4.40005,55.87743,41,08:00,17:00,Friday,2 weekly,2023-06-30,18,0,162
+R0173,Customer 0173,Stirling,-3.90667,56.12534,9,08:00,17:00,Wednesday,2 weekly,2023-07-05,2,0,18
+R0174,Customer 0174,Glasgow,-4.25902,55.85219,7,07:00,16:00,Friday,6 weekly,2023-06-23,1,1,9
+R0175,Customer 0175,Edinburgh,-3.23113,55.92055,15,09:00,17:00,Thursday,6 weekly,2023-06-15,5,0,45
+R0176,Customer 0176,Hamilton,-4.03099,55.77809,31,07:00,16:00,Tuesday,weekly,2023-07-04,13,0,117
+R0177,Customer 0177,Edinburgh,-3.1463,55.94829,9,08:00,17:00,Wednesday,weekly,2023-07-05,2,0,18
+R0178,Customer 0178,Glasgow,-4.23856,55.83959,31,09:00,12:00,Thursday,6 weekly,2023-06-15,13,0,117
+R0179,Customer 0179,Kilmarnock,-4.54105,55.61056,19,08:00,17:00,Friday,2 weekly,2023-06-30,7,0,63
+R0180,Customer 0180,Paisley,-4.4007,55.82743,9,07:00,16:00,Wednesday,weekly,2023-07-05,2,0,18
+R0181,Customer 0181,Edinburgh,-3.19426,55.93817,7,07:00,16:00,Thursday,2 weekly,2023-06-29,1,2,9
+R0182,Customer 0182,Kilmarnock,-4.51505,55.66529,9,09:00,17:00,Monday,weekly,2023-07-03,2,0,18
+R0183,Customer 0183,Glasgow,-4.29761,55.83818,7,07:00,16:00,Monday,weekly,2023-07-03,1,0,9
+R0184,Customer 0184,Edinburgh,-3.23352,55.93882,11,08:00,17:00,Thursday,2 weekly,2023-06-29,3,2,27
+R0185,Customer 0185,Glasgow,-4.27039,55.87289,7,09:00,17:00,Wednesday,weekly,2023-07-05,1,0,9
+R0186,Customer 0186,Edinburgh,-3.175,55.94482,7,07:00,16:00,Wednesday,6 weekly,2023-06-14,1,0,9
+R0187,Customer 0187,Glasgow,-4.24097,55.86591,60,07:00,16:00,Tuesday,6 weekly,2023-06-13,35,0,315
+R0188,Customer 0188,Hamilton,-4.06757,55.77488,23,09:00,17:00,Wednesday,weekly,2023-07-05,9,0,81
+R0189,Customer 0189,Kilmarnock,-4.49328,55.59581,13,07:00,16:00,Thursday,weekly,2023-07-06,4,0,36
+R0190,Customer 0190,Falkirk,-3.82564,55.99123,11,09:00,12:00,Monday,weekly,2023-07-03,3,1,27
+R0191,Customer 0191,Edinburgh,-3.22857,55.9641,11,07:00,16:00,Tuesday,2 weekly,2023-07-04,3,0,27
+R0192,Customer 0192,Stirling,-3.93055,56.09193,11,08:00,17:00,Tuesday,8 weekly,2023-06-20,3,0,27
+R0193,Customer 0193,Edinburgh,-3.19694,55.96121,27,07:00,16:00,Tuesday,2 weekly,2023-06-27,11,0,99
+R0194,Customer 0194,East Kilbride,-4.19718,55.75675,13,09:00,17:00,Wednesday,4 weekly,2023-07-05,4,2,36
+R0195,Customer 0195,Airdrie,-3.95094,55.89417,25,08:00,17:00,Friday,2 weekly,2023-06-30,10,0,90
+R0196,Customer 0196,Glasgow,-4.27893,55.83964,15,08:00,17:00,Tuesday,8 weekly,2023-05-23,5,0,45
+R0197,Customer 0197,Dunfermline,-3.50812,56.0619,23,09:00,12:00,Wednesday,2 weekly,2023-07-05,9,0,81
+R0198,Customer 0198,Edinburgh,-3.19772,55.93913,7,09:00,17:00,Thursday,2 weekly,2023-06-29,1,0,9
+R0199,Customer 0199,Stirling,-3.98393,56.17394,21,08:00,17:00,Wednesday,2 weekly,2023-07-05,8,0,72
+R0200,Customer 0200,Glasgow,-4.22254,55.87521,9,09:00,12:00,Tuesday,weekly,2023-07-04,2,2,18
+R0201,Customer 0201,Edinburgh,-3.11658,55.93998,7,09:00,17:00,Wednesday,4 weekly,2023-06-21,1,0,9
+R0202,Customer 0202,Kilmarnock,-4.57039,55.61851,39,09:00,12:00,Thursday,weekly,2023-07-06,17,0,153
+R0203,Customer 0203,Glasgow,-4.25679,55.86514,9,08:00,17:00,Thursday,4 weekly,2023-06-15,2,0,18
+R0204,Customer 0204,Edinburgh,-3.14827,55.92829,11,09:00,17:00,Thursday,2 weekly,2023-07-06,3,0,27
+R0205,Customer 0205,Paisley,-4.38288,55.86056,7,08:00,17:00,Friday,2 weekly,2023-06-30,1,0,9
+R0206,Customer 0206,Edinburgh,-3.14544,55.94788,7,09:00,12:00,Wednesday,8 weekly,2023-06-21,1,1,9
+R0207,Customer 0207,Glasgow,-4.1963,55.86766,7,09:00,17:00,Thursday,4 weekly,2023-06-15,1,0,9
+R0208,Customer 0208,Airdrie,-3.9946,55.88816,15,09:00,12:00,Friday,6 weekly,2023-06-23,5,2,45
+R0209,Customer 0209,Glasgow,-4.23653,55.84244,23,08:00,17:00,Monday,2 weekly,2023-06-26,9,2,81
+R0210,Customer 0210,Edinburgh,-3.13013,55.94282,19,09:00,12:00,Friday,4 weekly,2023-06-30,7,0,63
+R0211,Customer 0211,Edinburgh,-3.20088,55.91604,7,08:00,17:00,Thursday,weekly,2023-07-06,1,0,9
+R0212,Customer 0212,Glasgow,-4.25781,55.87056,29,08:00,17:00,Tuesday,2 weekly,2023-06-27,12,0,108
+R0213,Customer 0213,Edinburgh,-3.30506,55.92354,9,09:00,17:00,Thursday,4 weekly,2023-06-15,2,0,18
+R0214,Customer 0214,Dunfermline,-3.47794,56.08565,7,09:00,17:00,Wednesday,4 weekly,2023-06-14,1,0,9
+R0215,Customer 0215,Paisley,-4.40521,55.90306,19,09:00,12:00,Wednesday,8 weekly,2023-06-07,7,0,63
+R0216,Customer 0216,Edinburgh,-3.26588,55.93268,15,09:00,12:00,Wednesday,2 weekly,2023-07-05,5,0,45
+R0217,Customer 0217,Falkirk,-3.71931,55.98983,41,08:00,17:00,Wednesday,weekly,2023-07-05,18,0,162
+R0218,Customer 0218,Dunfermline,-3.49234,56.04245,37,07:00,16:00,Tuesday,weekly,2023-07-04,16,0,144
+R0219,Customer 0219,Glasgow,-4.25148,55.84523,17,08:00,17:00,Monday,4 weekly,2023-06-26,6,0,54
+R0220,Customer 0220,Edinburgh,-3.19328,55.94099,11,09:00,12:00,Tuesday,weekly,2023-07-04,3,0,27
+R0221,Customer 0221,East Kilbride,-4.17893,55.74355,33,08:00,17:00,Wednesday,4 weekly,2023-07-05,14,2,126
+R0222,Customer 0222,Glasgow,-4.25485,55.82112,29,09:00,17:00,Monday,weekly,2023-07-03,12,0,108
+R0223,Customer 0223,Kilmarnock,-4.53266,55.6241,9,08:00,17:00,Wednesday,weekly,2023-07-05,2,0,18
+R0224,Customer 0224,Glasgow,-4.20628,55.85829,7,08:00,17:00,Thursday,weekly,2023-07-06,1,0,9
+R0225,Customer 0225,Glasgow,-4.2761,55.86394,23,09:00,17:00,Tuesday,weekly,2023-07-04,9,0,81
+R0226,Customer 0226,East Kilbride,-4.20297,55.74439,7,08:00,17:00,Thursday,4 weekly,2023-06-22,1,0,9
+R0227,Customer 0227,Kilmarnock,-4.5812,55.61662,7,07:00,16:00,Monday,2 weekly,2023-06-26,1,0,9
+R0228,Customer 0228,Edinburgh,-3.1909,55.94701,7,08:00,17:00,Wednesday,6 weekly,2023-06-28,1,0,9
+R0229,Customer 0229,Edinburgh,-3.22427,55.96323,17,07:00,16:00,Wednesday,6 weekly,2023-07-05,6,0,54
+R0230,Customer 0230,East Kilbride,-4.17639,55.77051,11,09:00,12:00,Tuesday,2 weekly,2023-06-27,3,1,27
+R0231,Customer 0231,Falkirk,-3.75288,55.96987,13,07:00,16:00,Friday,8 weekly,2023-06-30,4,0,36
+R0232,Customer 0232,Dunfermline,-3.40992,56.09435,7,09:00,12:00,Friday,weekly,2023-06-30,1,0,9
+R0233,Customer 0233,Hamilton,-4.04837,55.75733,11,09:00,12:00,Friday,2 weekly,2023-06-30,3,0,27
+R0234,Customer 0234,Paisley,-4.46879,55.83921,11,08:00,17:00,Wednesday,6 weekly,2023-07-05,3,0,27
+R0235,Customer 0235,Paisley,-4.38912,55.85516,37,08:00,17:00,Monday,4 weekly,2023-07-03,16,0,144
+R0236,Customer 0236,Glasgow,-4.30036,55.87855,11,09:00,12:00,Thursday,2 weekly,2023-06-29,3,0,27
+R0237,Customer 0237,Glasgow,-4.18049,55.8509,7,09:00,12:00,Tuesday,4 weekly,2023-06-20,1,1,9
+R0238,Customer 0238,Glasgow,-4.18417,55.85494,17,09:00,12:00,Monday,2 weekly,2023-06-26,6,1,54
+R0239,Customer 0239,Edinburgh,-3.18504,55.97204,37,08:00,17:00,Tuesday,2 weekly,2023-07-04,16,0,144
+R0240,Customer 0240,Falkirk,-3.83214,56.01657,7,08:00,17:00,Monday,weekly,2023-07-03,1,0,9
+R0241,Customer 0241,Paisley,-4.4232,55.84395,7,09:00,17:00,Monday,2 weekly,2023-06-26,1,0,9
+R0242,Customer 0242,Glasgow,-4.22446,55.8594,7,09:00,17:00,Friday,2 weekly,2023-06-30,1,1,9
+R0243,Customer 0243,Glasgow,-4.25387,55.86674,15,09:00,12:00,Friday,6 weekly,2023-06-30,5,1,45
+R0244,Customer 0244,Edinburgh,-3.10784,55.94174,19,09:00,12:00,Thursday,8 weekly,2023-06-01,7,0,63
+R0245,Customer 0245,Glasgow,-4.23245,55.88274,27,09:00,17:00,Tuesday,weekly,2023-07-04,11,0,99
+R0246,Customer 0246,Dunfermline,-3.54478,56.04997,9,07:00,16:00,Friday,4 weekly,2023-06-30,2,0,18
+R0247,Customer 0247,Edinburgh,-3.15637,55.96042,7,09:00,12:00,Wednesday,weekly,2023-07-05,1,2,9
+R0248,Customer 0248,Paisley,-4.40416,55.84079,13,09:00,12:00,Friday,6 weekly,2023-06-02,4,0,36
+R0249,Customer 0249,Stirling,-3.98373,56.16351,43,08:00,17:00,Monday,weekly,2023-07-03,19,0,171
+R0250,Customer 0250,Dunfermline,-3.47829,56.04061,21,09:00,12:00,Thursday,weekly,2023-07-06,8,0,72
+R0251,Customer 0251,Edinburgh,-3.20728,55.96205,7,09:00,12:00,Friday,2 weekly,2023-06-30,1,0,9
+R0252,Customer 0252,Dunfermline,-3.48488,56.08501,7,09:00,12:00,Friday,weekly,2023-06-30,1,0,9
+R0253,Customer 0253,Glasgow,-4.26646,55.87714,7,09:00,12:00,Tuesday,2 weekly,2023-06-27,1,0,9
+R0254,Customer 0254,Edinburgh,-3.19352,55.93147,13,08:00,17:00,Tuesday,6 weekly,2023-06-06,4,1,36
+R0255,Customer 0255,Glasgow,-4.20185,55.82043,11,09:00,17:00,Monday,8 weekly,2023-07-03,3,0,27
+R0256,Customer 0256,Hamilton,-3.99852,55.78136,17,08:00,17:00,Wednesday,weekly,2023-07-05,6,0,54
+R0257,Customer 0257,Edinburgh,-3.19546,55.95194,7,09:00,12:00,Wednesday,4 weekly,2023-06-21,1,0,9
+R0258,Customer 0258,Glasgow,-4.23365,55.86646,25,07:00,16:00,Tuesday,4 weekly,2023-06-20,10,0,90
+R0259,Customer 0259,Glasgow,-4.21247,55.85439,9,08:00,17:00,Tuesday,6 weekly,2023-06-27,2,0,18
+R0260,Customer 0260,Glasgow,-4.28222,55.87745,19,08:00,17:00,Monday,4 weekly,2023-07-03,7,0,63
+R0261,Customer 0261,Stirling,-3.95926,56.10583,7,09:00,12:00,Monday,4 weekly,2023-07-03,1,0,9
+R0262,Customer 0262,Glasgow,-4.17877,55.88053,7,07:00,16:00,Friday,4 weekly,2023-06-30,1,0,9
+R0263,Customer 0263,Airdrie,-4.02994,55.85263,7,09:00,17:00,Thursday,weekly,2023-07-06,1,2,9
+R0264,Customer 0264,Stirling,-3.99719,56.14733,23,08:00,17:00,Wednesday,2 weekly,2023-07-05,9,1,81
+R0265,Customer 0265,Livingston,-3.52899,55.90747,15,09:00,12:00,Tuesday,weekly,2023-07-04,5,0,45
+R0266,Customer 0266,Glasgow,-4.26601,55.92197,13,09:00,12:00,Thursday,weekly,2023-07-06,4,0,36
+R0267,Customer 0267,Glasgow,-4.27936,55.84995,19,08:00,17:00,Friday,2 weekly,2023-06-30,7,0,63
+R0268,Customer 0268,Glasgow,-4.26183,55.83247,7,08:00,17:00,Thursday,2 weekly,2023-06-29,1,0,9
+R0269,Customer 0269,Edinburgh,-3.18884,55.94074,11,09:00,12:00,Monday,weekly,2023-07-03,3,0,27
+R0270,Customer 0270,Glasgow,-4.2594,55.86702,27,08:00,17:00,Friday,8 weekly,2023-06-02,11,0,99
+R0271,Customer 0271,Edinburgh,-3.17975,55.91841,17,09:00,17:00,Friday,weekly,2023-06-30,6,0,54
+R0272,Customer 0272,Glasgow,-4.25227,55.87116,11,09:00,12:00,Tuesday,2 weekly,2023-06-27,3,0,27
+R0273,Customer 0273,Edinburgh,-3.13748,55.93903,11,09:00,17:00,Thursday,4 weekly,2023-06-29,3,0,27
+R0274,Customer 0274,Glasgow,-4.30327,55.8834,11,09:00,12:00,Thursday,8 weekly,2023-06-01,3,2,27
+R0275,Customer 0275,Glasgow,-4.28647,55.90382,7,09:00,12:00,Tuesday,2 weekly,2023-06-27,1,0,9
+R0276,Customer 0276,Glasgow,-4.26379,55.83813,9,07:00,16:00,Friday,8 weekly,2023-06-16,2,0,18
+R0277,Customer 0277,Edinburgh,-3.16873,55.94447,41,09:00,12:00,Friday,weekly,2023-06-30,18,0,162
+R0278,Customer 0278,Edinburgh,-3.20381,55.9797,7,07:00,16:00,Thursday,4 weekly,2023-06-15,1,0,9
+R0279,Customer 0279,Glasgow,-4.2292,55.87729,60,09:00,12:00,Thursday,weekly,2023-07-06,28,2,252
+R0280,Customer 0280,Edinburgh,-3.26867,55.94813,23,07:00,16:00,Thursday,4 weekly,2023-07-06,9,1,81
+R0281,Customer 0281,Paisley,-4.40553,55.84507,7,08:00,17:00,Tuesday,4 weekly,2023-06-20,1,2,9
+R0282,Customer 0282,Kilmarnock,-4.51556,55.59186,7,08:00,17:00,Wednesday,8 weekly,2023-05-24,1,0,9
+R0283,Customer 0283,Glasgow,-4.25088,55.83445,9,09:00,12:00,Friday,weekly,2023-06-30,2,2,18
+R0284,Customer 0284,Hamilton,-3.96875,55.8366,11,08:00,17:00,Thursday,weekly,2023-07-06,3,0,27
+R0285,Customer 0285,Stirling,-3.94403,56.10164,13,07:00,16:00,Wednesday,2 weekly,2023-07-05,4,0,36
+R0286,Customer 0286,Glasgow,-4.25672,55.83839,23,08:00,17:00,Monday,2 weekly,2023-07-03,9,0,81
+R0287,Customer 0287,Stirling,-3.97148,56.0959,13,09:00,17:00,Tuesday,6 weekly,2023-06-27,4,0,36
+R0288,Customer 0288,Paisley,-4.39544,55.84625,7,09:00,12:00,Thursday,4 weekly,2023-06-29,1,0,9
+R0289,Customer 0289,Glasgow,-4.26749,55.85129,7,09:00,17:00,Friday,2 weekly,2023-06-30,1,0,9
+R0290,Customer 0290,Glasgow,-4.26788,55.82583,9,09:00,17:00,Friday,weekly,2023-06-30,2,0,18
+R0291,Customer 0291,Glasgow,-4.2694,55.83963,15,08:00,17:00,Wednesday,4 weekly,2023-06-14,5,0,45
+R0292,Customer 0292,Edinburgh,-3.21079,55.95322,17,07:00,16:00,Wednesday,4 weekly,2023-07-05,6,0,54
+R0293,Customer 0293,Glasgow,-4.2249,55.87296,11,09:00,17:00,Tuesday,4 weekly,2023-06-13,3,2,27
+R0294,Customer 0294,Edinburgh,-3.17047,55.97613,13,09:00,17:00,Tuesday,4 weekly,2023-06-27,4,0,36
+R0295,Customer 0295,Edinburgh,-3.20107,55.95201,7,09:00,12:00,Wednesday,weekly,2023-07-05,1,1,9
+R0296,Customer 0296,Edinburgh,-3.24315,55.95096,13,08:00,17:00,Thursday,6 weekly,2023-06-15,4,2,36
+R0297,Customer 0297,Glasgow,-4.24798,55.84342,7,09:00,12:00,Wednesday,weekly,2023-07-05,1,2,9
+R0298,Customer 0298,Livingston,-3.51558,55.87486,7,07:00,16:00,Monday,4 weekly,2023-07-03,1,1,9
+R0299,Customer 0299,Falkirk,-3.72613,56.00824,7,09:00,17:00,Friday,weekly,2023-06-30,1,0,9
+R0300,Customer 0300,Stirling,-3.91323,56.12314,21,09:00,17:00,Monday,2 weekly,2023-07-03,8,0,72
